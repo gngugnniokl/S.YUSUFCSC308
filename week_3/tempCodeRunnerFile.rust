@@ -1,0 +1,5 @@
+
+fn main(){
+    let String: n = "Hello";
+    println!("{}",n);
+}
